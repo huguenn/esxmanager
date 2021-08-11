@@ -4,7 +4,7 @@ Usage:
 
 create_vm.py -s HOST [-o PORT] -u USER [-p PASSWORD] [-nossl] [-v VM_NAME] [--datacenter-name DATACENTER_NAME] [--datastore-name DATASTORE_NAME] [--esx-ip ESX_IP]
 
-get_vm_names.py [-s HOST [-o PORT] -u USER [-p PASSWORD] [-nossl]
+get_vm_names.py -s HOST [-o PORT] -u USER [-p PASSWORD] [-nossl]
 
 getallvms.py -s HOST [-o PORT] -u USER [-p PASSWORD] [-nossl] [-f FIND]
 
